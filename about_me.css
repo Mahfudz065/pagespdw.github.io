@@ -1,0 +1,25 @@
+.back, a{
+    margin-top: 5px;
+    background-color: #40b928;
+    color: red;
+    text-decoration: none;
+    width: 70px;
+    height: 40px;
+    border: transparent;
+    border-radius: 5px;
+}
+body{
+    background-image: url(https://images.pexels.com/photos/1366957/pexels-photo-1366957.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+button{
+    background-color: bisque;
+}
+img{
+    width: 300px;
+    height: 300px;
+}
+p{
+    color: antiquewhite;
+}

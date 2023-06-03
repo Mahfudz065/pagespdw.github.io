@@ -1,0 +1,33 @@
+body{
+    margin: 0 auto;
+    font-family: brush script MT;
+    background-image: url(4k.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-size: large;
+    
+}
+
+form{
+    width: 100%;
+}
+
+legend{
+    text-align: center;
+}
+.back, al{
+    margin-top: 5px;
+    background-color: orange;
+    color: white;
+    text-decoration: none;
+    width: 70px;
+    height: 40px;
+    border: transparent;
+    border-radius: 5px;
+}
+p{
+    color: antiquewhite;
+}
+legend{
+    color: antiquewhite;
+}

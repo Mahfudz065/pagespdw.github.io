@@ -1,0 +1,51 @@
+*{
+    padding: 0;
+    top: 0;
+    right: 0;
+}
+
+body{
+    text-align: justify;
+    font-family: sans-serif;
+    background-image: url(https://images.pexels.com/photos/1239162/pexels-photo-1239162.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.box{
+    width: 100%;
+    height: 50px;
+    background-color: red; 
+    color: white;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    background-color: #2880b9;
+}
+
+section{
+    text-align: center;
+    align-items: center;
+    border: solid #2880b9;
+    box-sizing: border-box;
+    margin-bottom: 5px;
+    padding-bottom: 5px;
+}
+.btn{
+    justify-content: center;
+    text-align: center;
+}
+
+.pendaftaran, a{
+    background-color: #2880b9;
+    color: white;
+    text-decoration: none;
+    width: 100px;
+    height: 40px;
+    border: transparent;
+    border-radius: 5px;
+}
+p{
+    color: antiquewhite;
+}
